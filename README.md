@@ -1,3 +1,7 @@
+# Python Cloudflare IP Updater (DDNS)
+
+A Python script that points every single A record in your Cloudflare DNS account to the current IP.
+
 This is done just as a test, will be polishing it sometime.
 
 Python version: 3.7
