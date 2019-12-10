@@ -1,7 +1,9 @@
 import requests
 import json
 
+# API token with permission DNS:Edit on all zones
 zone_reader_token = "READER API KEY"
+# Token with permission Zone:Read and DNS:Read on all zones
 zone_editor_token = "EDITOR API KEY"
 
 # Get current public IP address through ipify.org
